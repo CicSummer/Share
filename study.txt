@@ -1,1 +1,1 @@
-insert hello git ~
+hello  git ~
